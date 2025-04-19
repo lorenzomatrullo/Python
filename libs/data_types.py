@@ -1,5 +1,3 @@
-
-
 # Strings
 name = "Lorenzo"
 food = "pizza"
