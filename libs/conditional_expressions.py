@@ -1,4 +1,4 @@
-# TERNARY OPERATORS = shortcut to if/else statement when assigning/returning a value
+# CONDITIONAL EXPRESSIONS (ternary operators) = shortcut to if/else statement when assigning/returning a value
 
 age = 18
 status = "Adult" if age >= 18 else "Minor"
