@@ -7,5 +7,6 @@ price = 10.99
 is_developer = True
 print(type(price))   # display the data type of the variable
 
-price = int(price)
-print(type(price))
+price = int(price)   # float -> integer
+print(type(price))   # data type: integer
+print(price)
