@@ -20,3 +20,5 @@ print(f"Price 1 is ${price1:+}")         # prefix sign of the number
 print(f"Price 2 is ${price2:+}")         # prefix sign of the number
 print(f"Price 3 is ${price3:+}")         # prefix negative number
 print(f"Price 3 is ${price3:,}")         # separetes thousands place
+
+print()                                  # print a new line
