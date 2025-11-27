@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+env/
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing and coverage
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup and swap files
+*~
+*.swp
+*.swo
