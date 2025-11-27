@@ -1,5 +1,4 @@
-## Python Programming
-
+## Python 
 This repository is a hands-on Python learning path.
 Each file is a small, runnable example that focuses on a single concept, and the filenames are numbered so you can work through them like a mini textbook you can execute.
 
@@ -8,7 +7,6 @@ Run any file directly with Python, or open the folder in Visual Studio Code and 
 <br>
 
 ## Requirements
-
 - **Python**: [Download Python from the official site](https://www.python.org/downloads/) and install it, then ensure `python` is available in your terminal.
 - **Visual Studio Code**: Recommended editor for exploring and running the examples.
 - **VS Code Python extension**: Official Microsoft Python extension for IntelliSense, linting, and debugging.
